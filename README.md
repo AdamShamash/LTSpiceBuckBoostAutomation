@@ -1,5 +1,4 @@
 # LTSpiceBuckBoostAutomation
 
-This file contains code that automatics the simulating and data organization aspects of LTSpice. It is used to iterate through thousands of parameter options for a cascaded buck-boost converter
-and a cascaded boost-buck converter. The program then automatically saves the simulation data to an excel file and plots the data on dozens of different charts combinations for easy readability
-and organization
+This script automates LTSpice simulations and organizes the resulting data. It iterates through thousands of parameter combinations for both cascaded buck-boost and boost-buck converters. After each run, the simulation results are automatically saved to an Excel file. The script then generates dozens of charts to make the data easy to read and compare.
+
